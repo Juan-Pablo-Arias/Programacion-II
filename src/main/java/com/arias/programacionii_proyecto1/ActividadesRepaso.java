@@ -138,8 +138,6 @@ public class ActividadesRepaso {
 
         10. Tablas de Multiplicar (del 1 al 5): Usa un bucle externo (for) para iterar por las tablas del 1 al 5, y un bucle interno (for, while o do-while) para calcular e imprimir cada multiplicación (del 1 al 10).
 
-         */
-
         for (int tabla = 1; tabla <= 5 ; tabla++){
             System.out.println("--- Esta es la tabla del " + tabla + " ---");
 
@@ -148,6 +146,8 @@ public class ActividadesRepaso {
                 System.out.println(tabla + " x " + multiplicador + " = " + resultado);
             }
             System.out.println();
+
+         */
         }
     }
 }
